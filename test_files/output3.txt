@@ -1,0 +1,5 @@
+The average weight is: 71.67
+The average height is: 166.67
+The average age is: 40.00
+The youngest is Aneta Langerova - 30 years old
+The oldest is: Lidumil Nejed - 50 years old

@@ -1,0 +1,4 @@
+Aneta Langerova;30;160;65;
+Lojza;CD;80;11;
+Lidumil Nejed;50;160;70;
+Drahomir Vladyka;40;180;80; 

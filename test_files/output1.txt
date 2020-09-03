@@ -1,0 +1,5 @@
+The average weight is: 56.50
+The average height is: 145.00
+The average age is: 30.25
+The youngest is Lojza - 1 years old
+The oldest is: Lidumil Nejed - 50 years old
